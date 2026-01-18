@@ -1,4 +1,4 @@
-Test Data for acefile
+Test data for acefile
 =====================
 
 This repo contains a small corpus of ACE archives intended for testing
